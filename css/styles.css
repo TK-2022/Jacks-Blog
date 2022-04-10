@@ -1,0 +1,22 @@
+body {
+  font-family: rye;
+  color: #630A10;
+    background-color: #FCF0C8;
+}
+h1{
+  font-size: 60px;
+}
+h2{
+  font-size: 30px;
+  font-family: "smokum";
+}
+.heading-section{
+
+  text-align: center;
+  padding: 25px 0 25px;
+}
+
+.candy-video {
+  margin: 0 auto;
+  text-align: center;
+}
