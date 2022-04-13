@@ -1,3 +1,9 @@
+
+a.btn:hover {
+  color: #FCF0C8;
+}
+
+
 body {
   font-family: rye;
   color: #630A10;
@@ -19,4 +25,19 @@ h2{
 .candy-video {
   margin: 0 auto;
   text-align: center;
+}
+
+.selections{
+  margin: 0 10%;
+}
+
+.card-body{
+  color: #911F27;
+  background-color: #F7D098;
+}
+
+.btn{
+  background-color: #911F27;
+  border-color: #911F27;
+
 }
